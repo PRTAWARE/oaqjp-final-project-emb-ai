@@ -1,0 +1,3 @@
+theia@theia-student:/home/project/final_project$ python3 -c "from EmotionDetection.emotion_detection import emotion_detector; print(emotion_detector('I am very angry'))"
+{'anger': 0.884521, 'disgust': 0.012351, 'fear': 0.005124, 'joy': 0.003154, 'sadness': 0.09485, 'dominant_emotion': 'anger'}
+theia@theia-student:/home/project/final_project$ 
